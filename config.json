@@ -1,0 +1,3 @@
+{
+  "jwtSecret": "your-super-secret-jwt-key-change-in-production-2024"
+}
