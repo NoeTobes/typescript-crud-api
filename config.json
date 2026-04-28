@@ -1,3 +1,11 @@
 {
-  "jwtSecret": "your-super-secret-jwt-key-change-in-production-2024"
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "ucmngwapoko",
+    "database": "typescript_crud_api"
+  },
+  "jwtSecret": "replace_this_with_env_in_production",
+  "port": 4001
 }
